@@ -1,11 +1,11 @@
 <?php
 /*
- * Plugin Name: WP Quiz
- * Plugin URI:  https://mythemeshop.com/plugins/wp-quiz/
- * Description: WP Quiz makes it incredibly easy to add professional, multimedia quizzes to any website! Fully feature rich and optimized for social sharing. Make your site more interactive!
- * Version:     1.1.0
- * Author:      MyThemeShop
- * Author URI:  https://mythemeshop.com/
+ * Plugin Name: Sepsis Awareness Quiz
+ * Plugin URI:  http://www.sepsis.org/sepsisawarenessmonth/
+ * Description: Time to learn about sepsis :o
+ * Version:     0.0.1
+ * Author:      Team Sepsis
+ * Author URI:  https://www.classy.org/
  *
  * Text Domain: wp-quiz
  * Domain Path: /languages/
