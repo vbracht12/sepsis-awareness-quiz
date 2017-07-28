@@ -213,6 +213,7 @@ class WP_Quiz {
 		wp_enqueue_style( 'font-awesome', 'https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css', false, WP_QUIZ_VERSION );
 		wp_enqueue_style( 'wp_quiz-front-css', WP_QUIZ_ASSETS_URL . 'css/main.css', false, WP_QUIZ_VERSION );
 		wp_enqueue_style( 'traditional-skin-css', WP_QUIZ_ASSETS_URL . 'css/traditional-skin.css', array(), WP_QUIZ_VERSION );
+		wp_enqueue_style( 'sepsis', WP_QUIZ_ASSETS_URL . 'css/sepsis.css', array(), WP_QUIZ_VERSION);
 
 		do_action( 'wp_quiz_register_public_styles' );
 	}
