@@ -6,6 +6,7 @@
 class WP_Quiz_Trivia_Quiz extends WP_Quiz {
 
 	public function get_html_questions() {
+		// this is a comment
 
 		$questions_html 	= '';
 
